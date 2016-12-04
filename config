@@ -1,0 +1,12 @@
+name:
+opt_parser_example
+
+submodules:
+tools
+opt_parser
+
+cflags:
+O2
+
+[/]
+main.c

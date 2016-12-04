@@ -1,0 +1,12 @@
+opt_parser_example
+opt_parser_example_db
+./tmp
+./old
+*.o
+*.o.db
+*.a
+*.d
+tags
+types_c.taghl
+a.out
+.historic
